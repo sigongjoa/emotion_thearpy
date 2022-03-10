@@ -3,7 +3,7 @@
 # files
 
 ## check_emtion_data.ipynb
-> https://github.com/sigongjoa/emotion_thearpy/blob/main/check_emtion_data.ipynb
+> https://github.com/sigongjoa/emotion_thearpy/blob/main/check_emtion_data.ipynb  
 데이터 확인 및 각 감정에 대해서 merge 진행  
 heatmap을 통해서 각 명사들 간의 유사도를 확인(wiki 모델)
 
