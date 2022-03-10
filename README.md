@@ -4,10 +4,13 @@
 
 ## check_emtion_data.ipynb
 > https://github.com/sigongjoa/emotion_thearpy/blob/main/check_emtion_data.ipynb  
+
 데이터 확인 및 각 감정에 대해서 merge 진행  
 heatmap을 통해서 각 명사들 간의 유사도를 확인(wiki 모델)
 
 ## count&sims.csv
+> https://github.com/sigongjoa/emotion_thearpy/blob/main/count%26sims.csv
+
 [감정 , 감정 count, 감정 sims]  
 감정 : 현재 감정에 대해서 therapy 데이터 안에 나온 단어들  
 감정 count : 위 단어들에 대한 빈도수  
@@ -15,9 +18,13 @@ heatmap을 통해서 각 명사들 간의 유사도를 확인(wiki 모델)
 
 
 ## data.csv
+> https://github.com/sigongjoa/emotion_thearpy/blob/main/data.csv
+
 therapy 데이터에 대해서 각 감정별로 다 연결  
 
 ## data.xlsx  
+> https://github.com/sigongjoa/emotion_thearpy/blob/main/data.csv
+
 text 형태의 therapy 데이터
 
 ## result_original.xlsx
