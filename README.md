@@ -7,7 +7,7 @@
 |Todo|내용|수정 사항|
 |--|--|--|
 |1|action_data 수집 및 비교|X|
-|2|emotion_data 튜닝|소스코드 수정 및 튜닝|
+|2|emotion_data 튜닝|소스코드 수정 및 감정 데이터 추가|
 |3|recommendation 테스트|X|
 |4|masking 기반 수치화 model 개발|X|
 
