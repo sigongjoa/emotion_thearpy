@@ -17,7 +17,7 @@
 
 #### emotion_data 튜닝
 1. 현재 emotion_data(hand craft)에서 상위 N개의 평균을 사용하는데 수치가 1이 나옴 -> 소스코드 수정  
-└ parsing이 단어 레벨이 아닌 글자 단위로 parsing이 되어 있었음 split(" ")을 추가해서 수정  
+└ parsing이 단어 레벨이 아닌 글자 단위로 parsing이 되어 있었음 `split(" ")`을 추가해서 수정  
 2. topn 파라미터 튜닝(상위 몇 개의 평균을 사용해서 사용해야 각 데이터의 분산이 크게 나오는가?  
 └ 1 또는 2 사용 `두려움`, `슬픔`, `슬픔`에 대해서 데이터 추가 필요  
 #### recommendation 테스트
