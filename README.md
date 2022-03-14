@@ -48,6 +48,8 @@ therapy 데이터에서 나온 단어와 그 단어가 나온 빈도수
 각 감정 별로 유사도가 0.3 이상인 단어들을 뽑음
 
 
-## 220314
-### Point1
-hand craft(단어)와 문장 두 데이터를 비교 했을 때 어떤 전처리 방식으로 표현 했을 때 차이점이 명확하게 나는가?
+### 220314 Todo
+1. action_data 수집 및 비교
+2. 데이터 튜닝
+3. recommendation 테스트 : Normalizaiton 결정, max_item() , compelet_item() 수정
+4. masking 기반 수치화 model 개발
